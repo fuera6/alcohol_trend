@@ -22,7 +22,6 @@
   * merging_final_weight.sas: SAS 코드
   * trend_analysis_code.sas: SAS 코드
   * 참고_syntax.pdf: 코드 이해를 위한 설명
-  * drinking_drug_test.sas7bdat: SAS 분석을 위한 데이터
   * dringking_drug_test_final.csv: 데이터 csv 파일
   * 변수 Codebook.xlsx:  변수 이해를 위한 codebook
 * R: baseline characteristics와 trend 시각화 코드 및 관련 데이터
