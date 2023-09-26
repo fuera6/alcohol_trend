@@ -2,12 +2,12 @@
 알코올 소비 관련 트렌드 분석 논문 관련 코드 파일
 
 ## Usage
-* beta coefficient, beta difference, OR, rOR 등 계산
 * baseline characteristics
 * trend 및 proportion 시각화
+* beta coefficient, beta difference, OR, rOR 등 계산
 
 ## Time
-* 2023
+* 2023.07-2023.08
 
 ## Prerequisite
 * dplyr (characteristics.R)
