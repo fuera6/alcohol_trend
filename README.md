@@ -1,5 +1,5 @@
 # alcohol_trend
-알코올 소비 및 구매 시도 트렌드 분석 논문 관련 코드 파일
+한국 청소년 알코올 소비 및 구매 시도 트렌드 분석 논문 관련 코드 파일
 
 ## Usage
 * baseline characteristics
